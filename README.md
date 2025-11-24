@@ -20,7 +20,7 @@ This is an overview of the condition of drinking water access in Indonesia
 ##### The tool that I used in this report is Excel, which I used for data cleaning, query, pivoting, analysis, and visualisation. 
 #
 #### Results
-#### The report has six parts: an overview of drinking water quality in Asia; basic and safe drinking water access in Indonesia; baseline and target for safe water quality; types of drinking water sources; piped water access in Indonesia; and public finance for the water sector.
+#### The report has six parts: an overview of drinking water quality in Asia; basic and safe drinking water access in Indonesia; baseline and target for safe water quality; types of drinking water sources; piped water access in Indonesia; and public finance for the water sector. You can access the full report at the following link: https://bit.ly/4p4bim0
 #
 ##### a. Overview of drinking water quality in Asia
 <img width="1543" height="965" alt="AirIcha1" src="https://github.com/user-attachments/assets/21ea0e30-8a2f-4175-8a1f-6a611e2b746f" />
@@ -34,15 +34,7 @@ This is an overview of the condition of drinking water access in Indonesia
 <img width="1550" height="960" alt="AirIcha3" src="https://github.com/user-attachments/assets/e858f860-9248-44b5-bfad-2a8203bf8250" />
 
 #
-##### d. Types of drinking water sources
-<img width="1543" height="965" alt="AirIcha4" src="https://github.com/user-attachments/assets/deb75ded-2771-411a-b53c-4587a2bd36b9" />
-
-#
-##### e. Piped water access in Indonesia
-<img width="1541" height="965" alt="AirIcha5" src="https://github.com/user-attachments/assets/de45fc49-6889-4acb-84d4-88995b180e02" />
-
-#
-##### f. Public finance for the water sector
+##### d. Public finance for the water sector
 <img width="1541" height="961" alt="AirIcha6" src="https://github.com/user-attachments/assets/d9a46256-6e69-42fd-a067-849b4ddcee82" />
 
 
