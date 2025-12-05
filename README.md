@@ -1,11 +1,11 @@
 # 
 # Drinking Water Access in Indonesia
 This is an overview of the condition of drinking water access in Indonesia
--	[Project Overview](#project-overview)
+-	[Overview](#overview)
 -	[Results](#results)
 #
-### Project Overview
-#### This is a short report on drinking water conditions in Indonesia with a simple analysis, highlighting water quality, water access, and public finance for the water sector. 
+### Overview
+#### This is a short piece on drinking water access in Indonesia with a simple analysis, highlighting water quality, access, and public finance for the water sector. 
 #
 #### Data Sources:
 ##### 1. Ministry of Health
@@ -20,7 +20,7 @@ This is an overview of the condition of drinking water access in Indonesia
 ##### The tool that I used in this report is Excel, which I used for data cleaning, query, pivoting, analysis, and visualisation. 
 #
 #### Results
-#### The report has six parts: an overview of drinking water quality in Asia; basic and safe drinking water access in Indonesia; baseline and target for safe water quality; types of drinking water sources; piped water access in Indonesia; and public finance for the water sector. You can access the full report at the following link: https://bit.ly/4p4bim0
+#### The report has six parts: an overview of drinking water quality in Asia; basic and safe drinking water access in Indonesia; baseline and target for safe water quality; types of drinking water sources; piped water access in Indonesia; and public finance for the water sector. You can access the full in here: https://bit.ly/4p4bim0
 #
 ##### a. Overview of drinking water quality in Asia
 <img width="1543" height="965" alt="AirIcha1" src="https://github.com/user-attachments/assets/21ea0e30-8a2f-4175-8a1f-6a611e2b746f" />
